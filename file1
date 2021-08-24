@@ -1,3 +1,4 @@
-ls
-free -h
 pwd
+cat /etc/os-release
+free -h
+ls
