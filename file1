@@ -1,4 +1,4 @@
 pwd
 cat /etc/os-release
-free -h
-ls
+hostname -I
+mkdir Eva
