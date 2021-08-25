@@ -4,3 +4,4 @@ hostname -I
 mkdir Eva
 echo "This is DevOps file1"
 free -h
+ls -la
