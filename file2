@@ -1,2 +1,3 @@
 ls
 free -h
+hostname -I
