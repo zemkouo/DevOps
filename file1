@@ -2,3 +2,4 @@ pwd
 cat /etc/os-release
 hostname -I
 mkdir Eva
+echo "This is DevOps file1"
